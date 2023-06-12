@@ -1,3 +1,3 @@
 # Demo
 
-Goes through a tutorial on git/github.
+Goes through a tutorial on git/github. !
